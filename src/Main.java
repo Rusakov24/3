@@ -103,7 +103,7 @@ public class Main {
 
 
         //Задание 8
-        System.out.println("Задание 8");
+        System.out.println("ЗАдание 8");
 
         int salaryMasha = 67760;
         int salaryDenis = 83690;
