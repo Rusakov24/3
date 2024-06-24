@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(" Homework ");
+        System.out.println(" Homework 3! ");
 
         //Задание 1
 
@@ -97,13 +97,13 @@ public class Main {
         int daysFor250g = targetWeightLoss * 1000 / minDailyWeightLoss;
         int daysFor500g = targetWeightLoss * 1000 / maxDailyWeightLoss;
         int averageDays = (daysFor250g + daysFor500g) / 2;
-        System.out.println("Дей, чтобы сбросить 7 кг при приеме 250 г в день: " + daysFor250g + " дней");
+        System.out.println("Дней, чтобы сбросить 7 кг при приеме 250 г в день: " + daysFor250g + " дней");
         System.out.println("Дней, чтобы сбросить 7 кг при приеме 500 г в день: " + daysFor500g + " дней");
         System.out.println("Среднее количество дней, необходимых для похудения: " + averageDays + " дней");
 
 
         //Задание 8
-        System.out.println("ЗАдание 8");
+        System.out.println("Задание 8");
 
         int salaryMasha = 67760;
         int salaryDenis = 83690;
