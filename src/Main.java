@@ -97,7 +97,7 @@ public class Main {
         int daysFor250g = targetWeightLoss * 1000 / minDailyWeightLoss;
         int daysFor500g = targetWeightLoss * 1000 / maxDailyWeightLoss;
         int averageDays = (daysFor250g + daysFor500g) / 2;
-        System.out.println("Дней, чтобы сбросить 7 кг при приеме 250 г в день: " + daysFor250g + " дней");
+        System.out.println("Дей, чтобы сбросить 7 кг при приеме 250 г в день: " + daysFor250g + " дней");
         System.out.println("Дней, чтобы сбросить 7 кг при приеме 500 г в день: " + daysFor500g + " дней");
         System.out.println("Среднее количество дней, необходимых для похудения: " + averageDays + " дней");
 
