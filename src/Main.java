@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(" Homework ");
+        System.out.println(" Homework 3 ");
 
         //Задание 1
 
@@ -103,7 +103,7 @@ public class Main {
 
 
         //Задание 8
-        System.out.println("ЗАдание 8");
+        System.out.println("Задание 8");
 
         int salaryMasha = 67760;
         int salaryDenis = 83690;
